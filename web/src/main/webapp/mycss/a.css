@@ -1,0 +1,4 @@
+#layout-left, #layout-right {position: absolute;}
+#layout-left{left: 0;width: 190px;z-index: 9;background-color: #ECF7FE;}
+#layout-left a {font-size: 12px; font-family: "微软雅黑"}
+#layout-right {left: 197px;right: 0;z-index: 10; background: #FFF}
